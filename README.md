@@ -15,5 +15,10 @@ Module 11: Data Collection
 # Resources
 * Module 11 > Day 2 > Activity 6
 * Module 11 > Day 3 > Activity 5
-* Chatgpt for help pulling row_data and creating a tuple 
-* Chatgpt for help figuring out code for number of terristial days. 
+* chatgpt to pull scrap row_data and creating a tuple 
+* chatgpt to convert the of terrestrial days into a daily count. 
+
+# Output
+* mars_news.json
+* mars_temp_data.csv
+* part 1 and 2 ipynb files
