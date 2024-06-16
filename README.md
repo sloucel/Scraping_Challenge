@@ -5,4 +5,4 @@ Module 11: Data Collection
 1. Sat, Jun 15th @1:12PM - Created 'Scraping_Challenge' Repo and uploaded starter files.
 2. Sat, Jun 15th @2:42PM - Extracted all text from Mars_News Browser,
 3. Sat, Jun 15th @3:05PM - Created a list to store dictionaires of titles and previews. 
-4. Sat, Jun 15th @3:18PM - Created json file for mars_news list of dictionaries
+4. Sat, Jun 15th @3:18PM - Created json file for mars_news list of dictionaries.
