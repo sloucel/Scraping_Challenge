@@ -9,6 +9,7 @@ Module 11: Data Collection
 5. Sat, Jun 15th @6:11PM - Scraped Mars Temperature table and converted to a dataframe.
 6. Sat, Jun 15th @6:32PM - Change data type using Pandas astype and to_datetime.
 7. Sat, Jun 15th @7:44PM - Completed Step 5 - Analyzing the data. 
+8. Sat, Jun 15th @7:51PM - Converted mars_temp_df to a csv file. 
 
 # Resources
 * Module 11 > Day 2 > Activity 6
