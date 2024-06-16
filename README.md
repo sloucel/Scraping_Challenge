@@ -14,3 +14,4 @@ Module 11: Data Collection
 * Module 11 > Day 2 > Activity 6
 * Module 11 > Day 3 > Activity 5
 * Chatgpt for help pulling row_data and creating a tuple 
+* Chatgpt for help figuring out code for number of terristial days. 
